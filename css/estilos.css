@@ -1,0 +1,46 @@
+.principal {
+  margin-top: 125px;
+  text-align: center;
+}
+
+/*la clase navbar q viene de bootstrap, se puede
+volver a configurar*/
+.navbar {
+  /*margin-top: -10px;*/
+  height: 135px;
+}
+
+.h4 {
+  text-align: right;
+}
+
+#lema {
+  background: rgb(218, 210, 210);
+}
+.pie {
+  margin-top: 50px;
+  text-align: center;
+  font-style: inherit;
+}
+
+.rs {
+  width: 50px;
+  margin-right: 30px;
+}
+
+.inf-nosotros {
+  margin-top: 80px;
+}
+
+.h3 {
+  text-align: center;
+}
+
+#msv {
+  margin-top: -110px;
+}
+
+.cuadro-msv {
+  border-style: dotted;
+  background: rgb(196, 193, 193);
+}
